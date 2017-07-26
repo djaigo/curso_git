@@ -1,7 +1,12 @@
 Aula sobre treads
 
 //introdução
+Olá pessola.
+Nessa aula iremos aprender um puco sobre threads e seu funcionamento com a linguagem Java. Threads são muito importante para o bom funcionamento de um sistema e permitem utilizar melhor todo o potencial de um sistema computacional que possua mais de um CPU.
 
 //tópicos
+1) processo e threads
+2) implementando threads com o Java.
 
-
+//conclusão
+//glossário
